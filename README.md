@@ -1,4 +1,4 @@
-# Non-Database-Bank-Application
+# Non-Database Bank Application
 
 This repository contains the code for a simple banking application using Java and with no databases.
 
